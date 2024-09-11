@@ -1,0 +1,3 @@
+# Exclude specific files
+ArtFlickServer/src/main/resources/application.properties
+ArtFlickServer/src/main/resources/serviceAccountKey.json
